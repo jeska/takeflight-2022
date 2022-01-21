@@ -1,14 +1,14 @@
 title: Jessica and Alex Take Flight 2022
 description: >-
   I guess we're getting married!
-baseurl: ""
-url: "https://takeflight-2022.github.io"
+baseurl: "/takeflight-2022"
+url: "https://www.jeska.me"
 locale: en-CA
 
 # Build settings
 markdown: kramdown
 remote_theme: "mmistakes/minimal-mistakes@4.24.0"
-minimal_mistakes_skin: sunrise
+minimal_mistakes_skin: "sunrise"
 plugins:
   - jekyll-remote-theme
   - jekyll-include-cache

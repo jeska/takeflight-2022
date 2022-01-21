@@ -1,0 +1,33 @@
+title: Jessica and Alex Take Flight 2022
+description: >-
+  I guess we're getting married!
+baseurl: ""
+url: "https://takeflight-2022.github.io"
+locale: en-CA
+
+# Build settings
+markdown: kramdown
+remote_theme: "mmistakes/minimal-mistakes@4.24.0"
+minimal_mistakes_skin: sunrise
+plugins:
+  - jekyll-remote-theme
+  - jekyll-include-cache
+
+defaults:
+  -
+    scope:
+      path: "" # an empty string here means all files in the project
+    values:
+      layout: "single"
+
+# Exclude from processing.
+# The following items will not be processed, by default. Create a custom list
+# to override the default setting.
+# exclude:
+#   - Gemfile
+#   - Gemfile.lock
+#   - node_modules
+#   - vendor/bundle/
+#   - vendor/cache/
+#   - vendor/gems/
+#   - vendor/ruby/

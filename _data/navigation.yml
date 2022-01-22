@@ -1,6 +1,6 @@
 main:
-  - title: "Schedule"
-    url: "/schedule/"
+  - title: "Event Details"
+    url: "/event-details/"
   - title: "Travel"
     url: "/travel/"
   - title: "FAQ"

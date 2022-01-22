@@ -13,6 +13,11 @@ plugins:
   - jekyll-remote-theme
   - jekyll-include-cache
 
+atom_feed:
+  hide: true
+
+include: ["_pages"]
+
 defaults:
   -
     scope:

@@ -1,5 +1,9 @@
-# main:
-#   - title: "Heading"
-#     url: "#heading"
-#   - title: "Another Heading"
-#     url: "#another-heading"
+main:
+  - title: "Schedule"
+    url: "/schedule/"
+  - title: "Travel"
+    url: "/travel/"
+  - title: "FAQ"
+    url: "/faq/"
+  - title: "RSVP"
+    url: "/rsvp/"

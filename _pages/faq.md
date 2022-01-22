@@ -1,0 +1,5 @@
+---
+permalink: /faq/
+title: FAQ
+---
+

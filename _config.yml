@@ -9,7 +9,7 @@ locale: en-CA
 # Build settings
 markdown: kramdown
 remote_theme: "mmistakes/minimal-mistakes@4.24.0"
-minimal_mistakes_skin: "sunrise"
+minimal_mistakes_skin: "aqua"
 plugins:
   - jekyll-remote-theme
   - jekyll-include-cache

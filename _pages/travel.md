@@ -17,9 +17,7 @@ If you can, we recommend flying [Porter Airlines](https://www.flyporter.com/en-c
 
 ## Staying in Toronto
 
-We have a block of hotels at [Novotel Toronto North York](https://all.accor.com/hotel/0910/index.en.shtml).
-
-We also recommend the [Willowdale Hotel](https://willowdalehotel.com/).
+We are currently working on a hotel block and will post information when it's available!
 
 If [Airbnb](https://www.airbnb.ca/s/Toronto--ON/homes) is your thing, there are plenty of options available around Toronto as well. We'd recommend finding something in the area of Highway 401 and Don Valley Parkway.
 

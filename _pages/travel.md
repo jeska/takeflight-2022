@@ -17,9 +17,11 @@ If you can, we recommend flying [Porter Airlines](https://www.flyporter.com/en-c
 
 ## Staying in Toronto
 
-We are currently working on a hotel block and will post information when it's available!
+Our hotel where we have a block for a discounted rate is [Novotel Toronto](https://all.accor.com/hotel/0910/index.en.shtml). We are currently waiting on some final details before we can send out the information, so stay tuned!
 
-If [Airbnb](https://www.airbnb.ca/s/Toronto--ON/homes) is your thing, there are plenty of options available around Toronto as well. We'd recommend finding something in the area of Highway 401 and Don Valley Parkway.
+Additionally, we like the [Willowdale Hotel](https://willowdalehotel.com/), which is a smaller hotel within walking distance to the venue. While we do not have a block there due to its size, it is a cute alternative!
+
+Otherwise, if [Airbnb](https://www.airbnb.ca/s/Toronto--ON/homes) is your thing, there are plenty of options available around Toronto as well. We'd recommend finding something in the area of Highway 401 and Don Valley Parkway.
 
 ## Transporting Around Toronto
 

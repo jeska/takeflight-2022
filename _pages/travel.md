@@ -17,9 +17,19 @@ If you can, we recommend flying [Porter Airlines](https://www.flyporter.com/en-c
 
 ## Staying in Toronto
 
-Our hotel where we have a block for a discounted rate is [Novotel Toronto](https://all.accor.com/hotel/0910/index.en.shtml). We are currently waiting on some final details before we can send out the information, so stay tuned!
+### Hotel Novotel Toronto North York
+
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d14773.58295443915!2d-79.41888751546497!3d43.77099744289539!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x882b2d71d1265ae1%3A0xea5959b0b143d4f3!2sHotel%20Novotel%20Toronto%20North%20York!5e0!3m2!1sen!2sca!4v1645395849342!5m2!1sen!2sca" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
+
+Our hotel where we have a block for a discounted rate is [Novotel Toronto](https://all.accor.com/hotel/0910/index.en.shtml). We will send discount information in your invite!
+
+### The Willowdale Hotel
+
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d14773.58295443915!2d-79.41888751546497!3d43.77099744289539!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x882b2d04f9a1eda1%3A0x31781df7bd6e6988!2sThe%20Willowdale%20Hotel%20Toronto%20North%20York!5e0!3m2!1sen!2sca!4v1645395884459!5m2!1sen!2sca" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
 
 Additionally, we like the [Willowdale Hotel](https://willowdalehotel.com/), which is a smaller hotel within walking distance to the venue. While we do not have a block there due to its size, it is a cute alternative!
+
+### Airbnb
 
 Otherwise, if [Airbnb](https://www.airbnb.ca/s/Toronto--ON/homes) is your thing, there are plenty of options available around Toronto as well. We'd recommend finding something in the area of Highway 401 and Don Valley Parkway.
 

@@ -38,5 +38,5 @@ I mean, what *isn't* there to do?? Send us a message if you want recommendations
 
 ## Does your house even have enough space for all of us?!
 
-We hope so! If the weather is nice we'll be able to go outside into our beautiful backyard, as well. We'll keep our bedroom off limits so Xander has a quiet place to chill, but otherwise the whole house will be open, including the basement.
+We hope so! If the weather is nice we'll be able to go outside into our beautiful backyard, as well. We'll keep our bedroom off limits so the kitties have a quiet place to chill, but otherwise the whole house will be open, including the basement.
 

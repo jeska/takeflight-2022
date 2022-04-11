@@ -23,6 +23,7 @@ Nope, we are asking that you not get us gifts. Your presence is the greatest gif
 - [The 519](https://www.the519.org/)
 - [The Bruce Trail Conservancy](https://brucetrail.org/)
 - [True North Aid](https://truenorthaid.ca/)
+- [North Toronto Cat Rescue](https://www.northtorontocatrescue.com)
 
 If you'd like, you can include a copy of your donation in a beautiful fancy card. Check out [Not Amazon - Toronto](https://not-amazon-to.pory.app/) and click on the Stationery category to find a great local business to support.
 

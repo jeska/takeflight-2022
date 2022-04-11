@@ -45,9 +45,11 @@ We hope so! If the weather is nice we'll be able to go outside into our beautifu
 
 We're doing our best to shop local for our wedding, and we want to highlight some of the places we're using for attire, decorations, food, and more. This list will keep updating as we get closer to the wedding, so check back if you're curious!
 
+- [Anne Houston -- Wedding Officiant](http://www.annehoustonofficiant.com/home.html)
+- [AshleySewCraftyCo](https://www.etsy.com/shop/AshleySewCraftyCo)
 - [Avangard Photography](http://www.avangardphoto.com/blog/)
 - [The Cat's Meow](https://www.thecatsmeow.com/)
+- [Century Mill Lumber](https://centurymill.com/)
 - [The Devil's Workshop](https://www.thedevilsworkshop.ca/)
 - [Plant Collective](https://plantcollective.co/)
 - [Surmesur](https://www.surmesur.com/en-ca)
-

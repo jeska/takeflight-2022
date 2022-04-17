@@ -48,8 +48,12 @@ We're doing our best to shop local for our wedding, and we want to highlight som
 - [Anne Houston -- Wedding Officiant](http://www.annehoustonofficiant.com/home.html)
 - [AshleySewCraftyCo](https://www.etsy.com/shop/AshleySewCraftyCo)
 - [Avangard Photography](http://www.avangardphoto.com/blog/)
+- [Canadian Succulents](https://www.canadiansucculents.net/)
 - [The Cat's Meow](https://www.thecatsmeow.com/)
 - [Century Mill Lumber](https://centurymill.com/)
 - [The Devil's Workshop](https://www.thedevilsworkshop.ca/)
-- [Plant Collective](https://plantcollective.co/)
 - [Surmesur](https://www.surmesur.com/en-ca)
+
+And, of course, the [Home Depot](https://www.youtube.com/watch?v=boI4D1FlIVs).
+
+We have also done second-hand shopping on both [Poshmark](https://poshmark.ca/feed) and [Kijiji](https://www.kijiji.ca/).

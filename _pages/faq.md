@@ -52,6 +52,7 @@ We're doing our best to shop local for our wedding, and we want to highlight som
 - [The Cat's Meow](https://www.thecatsmeow.com/)
 - [Century Mill Lumber](https://centurymill.com/)
 - [The Devil's Workshop](https://www.thedevilsworkshop.ca/)
+- [Genuine Tea](https://www.genuinetea.ca/)
 - [Surmesur](https://www.surmesur.com/en-ca)
 
 And, of course, the [Home Depot](https://www.youtube.com/watch?v=boI4D1FlIVs).

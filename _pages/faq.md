@@ -53,6 +53,7 @@ We're doing our best to shop local for our wedding, and we want to highlight som
 - [Century Mill Lumber](https://centurymill.com/)
 - [The Devil's Workshop](https://www.thedevilsworkshop.ca/)
 - [Genuine Tea](https://www.genuinetea.ca/)
+- [Ontarieau](https://ontarieau.ca/)
 - [Surmesur](https://www.surmesur.com/en-ca)
 
 And, of course, the [Home Depot](https://www.youtube.com/watch?v=boI4D1FlIVs).

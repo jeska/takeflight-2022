@@ -57,8 +57,9 @@ We're doing our best to shop local for our wedding, and we want to highlight som
 - [The Devil's Workshop](https://www.thedevilsworkshop.ca/)
 - [Genuine Tea](https://www.genuinetea.ca/)
 - [Ontarieau](https://ontarieau.ca/)
+- [Second Nature Boutique](https://secondnaturebtq.com/)
 - [Surmesur](https://www.surmesur.com/en-ca)
 
 And, of course, the [Home Depot](https://www.youtube.com/watch?v=boI4D1FlIVs).
 
-We have also done second-hand shopping on both [Poshmark](https://poshmark.ca/feed) and [Kijiji](https://www.kijiji.ca/).
+We have also done second-hand shopping on [Kijiji](https://www.kijiji.ca/).

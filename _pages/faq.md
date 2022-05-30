@@ -56,6 +56,7 @@ We're doing our best to shop local for our wedding, and we want to highlight som
 - [Century Mill Lumber](https://centurymill.com/)
 - [The Devil's Workshop](https://www.thedevilsworkshop.ca/)
 - [Genuine Tea](https://www.genuinetea.ca/)
+- [Midoco Art & Office Supplies](https://midoco.ca/)
 - [Ontarieau](https://ontarieau.ca/)
 - [Second Nature Boutique](https://secondnaturebtq.com/)
 - [Surmesur](https://www.surmesur.com/en-ca)

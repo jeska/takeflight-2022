@@ -64,3 +64,15 @@ We're doing our best to shop local for our wedding, and we want to highlight som
 And, of course, the [Home Depot](https://www.youtube.com/watch?v=boI4D1FlIVs).
 
 We have also done second-hand shopping on [Kijiji](https://www.kijiji.ca/).
+
+## Any updates on the COVID situation?
+
+Per the latest [news](https://www.cbc.ca/news/politics/border-pandemic-restrictions-1.6472271), any current COVID-19 travel measures will remain for the next month. You can see current Ontario travel guidelines [here](https://www.ontario.ca/page/travelling-during-covid-19).
+
+If you need to cancel due to an exposure or you are experiencing symptoms, let us know as soon as possible. We would rather you be safe than risk the health & safety of others! **Stay home if you are sick**!
+
+We **encourage you to wear a mask while not eating or drinking**, but it is not mandatory. We will have additional masks and hand sanitizer on the welcome table. We will also have access to the covered balcony!
+
+If you need any rapid tests, they are typically available at the [Food Basics](https://goo.gl/maps/ErnZKj3gQbCxPo1Z9) down the street from us. We are continuing to stock up, as well. Let us know if you need us to pick some up for you!
+
+Additionally, if you need a travel COVID test, they are available at [Shoppers Drug Mart](https://www.shoppersdrugmart.ca/en/health-and-pharmacy/covid-19/testing), which happens to be right down the street.

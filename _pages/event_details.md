@@ -14,9 +14,22 @@ Village Loft | 10AM -- 2:30PM
 
 Join us for a matinee of apps, mains, and zerts and a laid-back ceremony at the Village Loft, easily accessible from the Bayview exit of highway 401.
 
+**Canapes and beverages will be available at 10AM**. Alcohol cannot be served before 11AM, but a mocktail handed out as guests arrive.
+
+The **ceremony will start at 11:30AM** and last around half an hour. After the ceremony, we will take some group photos. We will announce groups as they are needed, so don't go too far!
+
+**Food stations will begin around 12:15PM**. The starter will be an antipasti table with various meats, vegetables, dips, and breads. Following, there will be poutine and mushroom risotto stations.
+
+The **reception will end at 2:30PM**, and we must be out of the venue by 3PM.
+
 ## After Party
 
 Billington Keep | 3PM -- ??
 
 After the ceremony, come on back to our house to close out the afternoon with food, drink, and good company. Everyone is welcome to stick around as we get into the evening. Stay as long as you like, food and drink will keep coming as long as people stick around. 
 
+Parking is limited by our house, so please share rides & carpool! Toronto Parking Authority will be notified that there will be extra cars in the area, but if you get a parking ticket, let us know & we'll help you out.
+
+The cats will be sequestered in the bedroom for the course of the party. If you want to meet them, let us know! Otherwise, please do not go into the bedroom.
+
+If you're still around by, say, 7:30 or so, we are ordering Domino's. No questions.

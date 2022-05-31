@@ -14,13 +14,13 @@ Village Loft | 10AM -- 2:30PM
 
 Join us for a matinee of apps, mains, and zerts and a laid-back ceremony at the Village Loft, easily accessible from the Bayview exit of highway 401.
 
-**Canapes and beverages will be available at 10AM**. Alcohol cannot be served before 11AM, but a mocktail handed out as guests arrive.
+10:00AM -- 11:15AM | Canapes and beverages
+11:30AM -- 12PM | Ceremony
+12:15PM -- 2:30PM | Food, Macarons, Speeches, & General Revelry
+2:30PM | End of reception
+3:00PM | Venue access ends
 
-The **ceremony will start at 11:30AM** and last around half an hour. After the ceremony, we will take some group photos. We will announce groups as they are needed, so don't go too far!
-
-**Food stations will begin around 12:15PM**. The starter will be an antipasti table with various meats, vegetables, dips, and breads. Following, there will be poutine and mushroom risotto stations.
-
-The **reception will end at 2:30PM**, and we must be out of the venue by 3PM.
+After the ceremony, we will take some group photos. We will announce groups as they are needed, so don't go too far!
 
 ## After Party
 

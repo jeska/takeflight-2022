@@ -75,4 +75,8 @@ We **encourage you to wear a mask while not eating or drinking**, but it is not 
 
 If you need any rapid tests, they are typically available at the [Food Basics](https://goo.gl/maps/ErnZKj3gQbCxPo1Z9) down the street from us. We are continuing to stock up, as well. Let us know if you need us to pick some up for you!
 
-Additionally, if you need a travel COVID test, they are available at [Shoppers Drug Mart](https://www.shoppersdrugmart.ca/en/health-and-pharmacy/covid-19/testing), which happens to be right down the street.
+Additionally, if you need a travel COVID test, they are available at [Shoppers Drug Mart](https://www.shoppersdrugmart.ca/en/health-and-pharmacy/covid-19/testing). A rapid test is $40, and for travel to the US, you need to take one the day before your flight departs. Some locations include:
+
+- [Loblaws Bayview Village Pharmacy](https://goo.gl/maps/tAGbvDQJFxMR3kpXA)
+- [Shoppers @ Sheppard Centre](https://goo.gl/maps/xiLgydHaBaCzUGjG6)
+- [Shoppers @ Parkwoods Centre](https://goo.gl/maps/XFqa4cVqjRAQYmjaA)
